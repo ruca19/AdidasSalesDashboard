@@ -22,3 +22,8 @@ Este proyecto presenta un análisis detallado de las ventas de Adidas en Estados
 - **Pandas y otras librerías de análisis de datos:** Para el procesamiento y análisis de datos.
 - **Matplotlib:** Para la generación de gráficos.
 
+## Imagenes muestra Dashboard
+Les dejo una imagenes de muestra del dashboard que es mas amplio, si desean ver el dashboard completo pueden mirar el video que estan entre los archivos compartidos
+![2](https://github.com/user-attachments/assets/c07a1a3a-2082-44ab-82c6-bc9a56a88b64)
+![1](https://github.com/user-attachments/assets/42191ba8-e279-4922-b935-c531b5ae27f4)
+
